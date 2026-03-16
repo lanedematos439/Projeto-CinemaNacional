@@ -1,0 +1,75 @@
+[
+    {
+        "nome": "Cidade de Deus",
+        "classificacao_indicativa": "18 anos",
+        "ano": "2002",
+        "duracao": "2h 10m",
+        "categoria": "Drama, Crime",
+        "descricao": "“Cidade de Deus” mostra a vida na favela através do Buscapé, que quer fugir do crime, enquanto Zé Pequeno cresce no tráfico e vira um criminoso brutal. O filme acompanha como a violência e as guerras de gangues tomam conta do lugar, enquanto Buscapé tenta achar um caminho diferente."
+    }
+,
+    {
+        "nome": "Tropa de Elite",
+        "classificacao_indicativa": "16 anos",
+        "ano": "2007",
+        "duracao": "1h 55m",
+        "categoria": "Ação, Policial",
+        "descricao": "Em 1997, o Capitão Nascimento busca um substituto para sua posição no BOPE, a tropa de elite da polícia do Rio de Janeiro, enquanto lida com a corrupção policial e a violência nas favelas durante a visita do Papa."
+    },
+    {
+        "nome": "Bacurau",
+        "classificacao_indicativa": "16 anos",
+        "ano": "2019",
+        "duracao": "2h 11m",
+        "categoria": "Drama, Suspense",
+        "descricao": "Num futuro próximo, os moradores de Bacurau, um pequeno povoado no sertão brasileiro, descobrem que sua comunidade desapareceu dos mapas. Quando uma série de assassinatos misteriosos começa, eles percebem que estão sendo caçados e precisam se unir para lutar por suas vidas."
+    },
+    {
+        "nome": "Central do Brasil",
+        "classificacao_indicativa": "12 anos",
+        "ano": "1998",
+        "duracao": "1h 53m",
+        "categoria": "Drama",
+        "descricao": "Dora, uma ex-professora que escreve cartas para analfabetos na estação Central do Brasil, no Rio de Janeiro, relutantemente ajuda Josué, um menino cuja mãe acabou de morrer, a encontrar seu pai no sertão nordestino. A jornada transforma a vida de ambos."
+    },
+    {
+        "nome": "O Auto da Compadecida",
+        "classificacao_indicativa": "Livre",
+        "ano": "2000",
+        "duracao": "1h 44m",
+        "categoria": "Comédia, Aventura",
+        "descricao": "As aventuras de João Grilo, um sertanejo pobre e mentiroso, e seu amigo Chicó, covarde e atrapalhado. Ambos vivem de golpes para sobreviver no sertão da Paraíba e enfrentam diversos personagens, culminando em um julgamento celestial com a aparição de Jesus, o Diabo e a Compadecida."
+    },
+    {
+        "nome": "O Pagador de Promessas",
+        "classificacao_indicativa": "Livre",
+        "ano": "1962",
+        "duracao": "1h 38m",
+        "categoria": "Drama",
+        "descricao": "Zé do Burro, um homem humilde, enfrenta a intransigência da Igreja ao tentar cumprir a promessa de carregar uma pesada cruz de madeira até a igreja de Santa Bárbara, em Salvador."
+    },
+    {
+        "nome": "Que Horas Ela Volta?",
+        "classificacao_indicativa": "12 anos",
+        "ano": "2015",
+        "duracao": "1h 52m",
+        "categoria": "Drama, Comédia",
+        "descricao": "A pernambucana Val trabalha como empregada doméstica em São Paulo para dar uma vida melhor à filha, Jéssica. Quando Jéssica chega para prestar vestibular, sua presença rompe as barreiras de classe na casa."
+    },
+    {
+        "nome": "Minha Mãe É Uma Peça 2",
+        "classificacao_indicativa": "12 anos",
+        "ano": "2016",
+        "duracao": "1h 36m",
+        "categoria": "Comédia",
+        "descricao": "Dona Hermínia tornou-se uma apresentadora de TV famosa, mas precisa lidar com o ninho vazio quando seus filhos decidem sair de casa. A situação piora com a chegada de sua irmã Lúcia Helena, que volta de Nova York."
+    },
+    {
+       "nome": "Vidas Secas",
+       "classificacao_indicativa": "10 anos",
+       "ano": "1963",
+       "duracao": "1h 43m",
+       "categoria": "Drama",
+       "descricao": "Uma família de retirantes luta para sobreviver à seca no sertão nordestino. Fabiano, Sinhá Vitória, seus dois filhos e a cadela Baleia enfrentam a fome e a miséria em uma jornada desoladora."
+    }
+]

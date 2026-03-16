@@ -1,0 +1,16 @@
+INSERT INTO filmes (nome, ano, marcador_duracao, duracao, marcador_classificacao, classificacao_indicativa, categoria, botao_adicionar_a_listafavoritos, botao_lista_interesses, marcador_sinopse, sinopse, capa, cor_card)
+VALUES (
+'O Auto da Compadecida',
+'2000 •',
+'Duração: ',
+'1h44m',
+'Classificação Indicativa: ',
+'Livre',
+'Comédia, Aventura',
+'src/botoes/botao_adicionar_a_listafavoritos.png',
+'src/botoes/botao_lista_interesses.png',
+'Sinopse: ',
+'As aventuras de João Grilo, um sertanejo pobre e mentiroso, e seu amigo Chicó, covarde e atrapalhado. Ambos vivem de golpes para sobreviver no sertão da Paraíba e enfrentam diversos personagens, culminando em um julgamento celestial com a aparição de Jesus, o Diabo e a Compadecida.',
+'src/CapasFilmesBanco/central.png',
+'#daa86c'
+);

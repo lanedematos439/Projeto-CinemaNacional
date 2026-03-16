@@ -1,0 +1,107 @@
+[
+    {
+        "imagem": "src/capas/cidadededeus.png",
+        "id": 1,
+        "barra": "src/barra.png",
+        "nome": "Cidade de Deus",
+        "ano": "2002",
+        "resumo": "“Cidade de Deus” mostra a vida na favela através do Buscapé, que quer fugir do crime, enquanto Zé Pequeno cresce no tráfico e vira um criminoso brutal. O filme acompanha como a violência e as guerras de gangues tomam conta do lugar, enquanto Buscapé tenta achar um caminho diferente."
+    },
+    {
+        "imagem": "src/capas/central.png",
+        "id": 2,
+        "barra": "src/barra.png",
+        "nome": "Central do Brasil",
+        "ano": "3 de Abril 1998",
+        "resumo": "Dora trabalha escrevendo cartas para analfabetos na estação Central do Brasil, Rio de Janeiro. A escrivã ajuda um menino, após a <br> sua mãe ser atropelada, a tentar encontrar o pai que nunca conheceu, no interior do Nordeste."
+
+    },
+    {
+        "imagem": "src/capas/bacurau.png",
+        "id": 3,
+        "barra": "src/barra.png",
+        "nome": "Bacurau",
+        "ano": "2019",
+        "resumo": "Num futuro próximo, os moradores de Bacurau, um pequeno povoado no sertão brasileiro, descobrem que sua comunidade desapareceu dos mapas. Quando uma série de assassinatos misteriosos começa, eles percebem que estão sendo caçados e precisam se unir para lutar por suas vidas."
+    },
+    {
+        "imagem": "src/capas/tropadeelite.png",
+        "id": 4,
+        "barra": "src/barra.png",
+        "nome": "Tropa de Elite",
+        "ano": "2007",
+        "resumo": "Em 1997, o Capitão Nascimento busca um substituto para sua posição no BOPE, a tropa de elite da polícia do Rio de Janeiro, enquanto lida com a corrupção policial e a violência nas favelas durante a visita do Papa."
+    },
+    {
+        "imagem": "src/capas/QueHorasElaVolta.png",
+        "id": 5,
+        "barra": "src/barra.png",
+        "nome": "Que Horas Ela Volta?",
+        "ano": "2015",
+        "resumo": "A pernambucana Val trabalha como empregada doméstica em São Paulo para dar uma vida melhor à filha, Jéssica. Quando Jéssica chega para prestar vestibular, sua presença rompe as barreiras de classe na casa."
+    }, 
+    {
+        "imagem": "src/capas/MinhaMaeEUmaPeca2.png",
+        "id": 6,
+        "barra": "src/barra.png",
+        "nome": "Minha Mãe É Uma Peça 2",
+        "ano": "2016",
+        "resumo": "Dona Hermínia tornou-se uma apresentadora de TV famosa, mas precisa lidar com o ninho vazio quando seus filhos decidem sair de casa. A situação piora com a chegada de sua irmã Lúcia Helena, que volta de Nova York."
+    },
+    {
+        "imagem": "src/capas/OPagadorDePromessas.png",
+        "id": 7,
+        "barra": "src/barra.png",
+        "nome": "O Pagador de Promessas",
+        "ano": "1962",
+        "resumo": "Zé do Burro, um homem humilde, enfrenta a intransigência da Igreja ao tentar cumprir a promessa de carregar uma pesada cruz de madeira até a igreja de Santa Bárbara, em Salvador."
+    },
+    {
+        "imagem": "src/capas/VidasSecas.png",
+        "id": 8,
+        "barra": "src/barra.png",
+        "nome": "Vidas Secas",
+        "ano": "1963",
+        "resumo": "Uma família de retirantes luta para sobreviver à seca no sertão nordestino. Fabiano, Sinhá Vitória, seus dois filhos e a cadela Baleia enfrentam a fome e a miséria em uma jornada desoladora."
+    },
+    {
+        "imagem": "src/capas/autodacompadecida.png",
+        "id": 9,
+        "barra": "src/barra.png",
+        "nome": "O Auto da Compadecida",
+        "ano": "2000",
+        "resumo": "As aventuras de João Grilo, um sertanejo pobre e mentiroso, e seu amigo Chicó, covarde e atrapalhado. Ambos vivem de golpes para sobreviver no sertão da Paraíba e enfrentam diversos personagens, culminando em um julgamento celestial com a aparição de Jesus, o Diabo e a Compadecida."
+    },
+    {
+        "imagem": "src/capas/ohomemquecopiava.png",
+        "id": 10,
+        "barra": "src/barra.png",
+        "nome": "O Homem Que Copiava",
+        "ano": "2003",
+        "resumo": "André, um operador de fotocopiadora, se apaixona por sua vizinha Silvia. Para conseguir dinheiro e se aproximar dela, ele começa a falsificar notas de 50 reais, desencadeando uma série de eventos inesperados."
+    },
+    {
+        "imagem": "src/capas/carandiru.png",
+        "id": 11,
+        "barra": "src/barra.png",
+        "nome": "Carandiru",
+        "ano": "2003",
+        "resumo": "Um médico se oferece para realizar um trabalho de prevenção à AIDS no maior presídio da América Latina, o Carandiru. Lá, ele convive com a realidade dos detentos antes do massacre de 1992."
+    },
+    {
+        "imagem": "src/capas/estomago.png",
+        "id": 12,
+        "barra": "src/barra.png",
+        "nome": "Estômago",
+        "ano": "2007",
+        "resumo": "Raimundo Nonato muda-se para a cidade grande na esperança de ter uma vida melhor. Contratado como faxineiro em um bar, ele descobre que possui um talento nato para a culinária, o que transforma sua vida dentro e fora da prisão."
+    },
+    {
+        "imagem": "src/capas/aquarius.png",
+        "id": 13,
+        "barra": "src/barra.png",
+        "nome": "Aquarius",
+        "ano": "2016",
+        "resumo": "Clara, uma jornalista aposentada e viúva, é a última moradora do edifício Aquarius. Ela enfrenta uma construtora que pretende demolir o prédio para construir um novo empreendimento, recusando-se a vender seu apartamento."
+    }
+]
