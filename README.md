@@ -22,7 +22,7 @@ completo e colocar em prática meus conhecimentos em PHP e Banco de Dados.
 
 ## 📷 Imagens do projeto
 
-![Tela inicial](projcinemanacional.JPG)
+<img src="projcinemanacional.JPG" width="400">
 
 ## Acesse o projeto! 
 https://lanedematos439.github.io/Projeto-CinemaNacional/
